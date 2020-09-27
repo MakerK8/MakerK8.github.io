@@ -1,8 +1,0 @@
-<html>
-<body>
-<h1>I got this maybe?</h1>
-<p>I'm making an index file for GitHub Pages.</p>
-<p>With a second paragraph.</p>
-<p>How about a <a href="https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)" rel="noopener noreferrer" target="_blank">link</a>?</p>
-</body>
-</html>
